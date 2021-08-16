@@ -2,7 +2,7 @@
 
 
 
-I love reading book, hiking, driving!🏕🏻‍♀️<br>
+I love reading book, hiking, driving!🏕🏻‍<br>
 I enjoy learing somthing new! 📒
 
 ### Skills 💪
