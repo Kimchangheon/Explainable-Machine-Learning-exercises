@@ -1,4 +1,4 @@
-### Hi there~ 👋  I'm Data scientist, ML enginner, AI Developer 🌎 <br>
+### Hi there~ 👋  I'm an AI Reseracher and Data scientist, ML enginner 🌎 <br>
 
 
 
@@ -24,7 +24,7 @@ I enjoy learing somthing new! 📒
 
 
 
-### 🔭 I’m currently working on Modulabs, AI TQA(Technical Quality Assuarnce)
+### 🔭 I’m currently a Master student in FAU Erlangen, Artificial Intelligence
 
 ### 📫 How to reach me: chkim345@gmail.com
 
